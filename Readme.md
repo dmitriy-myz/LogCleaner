@@ -1,4 +1,4 @@
-#linux log cleaner
+# linux log cleaner
 clean wtmp, lastlog, auth.log
 
 
